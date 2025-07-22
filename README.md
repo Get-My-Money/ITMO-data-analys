@@ -93,10 +93,9 @@
 ## 📁 Структура репозитория
 
 ITMO-data-analys/
-├── exploratory_analysis.ipynb # Jupyter Notebook с анализом
-├── README.md # Этот файл
-└── requirements.txt # Зависимости
-
+├── exploratory_analysis.ipynb # Основной Jupyter Notebook с анализом
+├── README.md # Документация проекта
+└── requirements.txt # Список Python-зависимостей
 
 ---
 
